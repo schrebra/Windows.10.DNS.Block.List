@@ -5,6 +5,7 @@ It can be used in the Windows 10 Host file, Pihole, or PFsense PFblockerNG.
 The source was gathered from Microsoft privacy site, Microsoft WSUS servers, Reddit, and StackExchange. 
 
 Sources:
+
 https://answers.microsoft.com/en-us/windows/forum/windows_other-networking/need-windows-update-servers-ip-address-range-to/0b0d3618-f74c-411d-bb46-58bd605f7abe
 
 https://docs.microsoft.com/de-de/security-updates/windowsupdateservices/18127640
