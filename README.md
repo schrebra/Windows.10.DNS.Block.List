@@ -1,4 +1,5 @@
 # windows10.dns.list
+DNS Block List for Windows 10 Pihole
 This is an exhaustive list of all Windows 10 DNS names that call back to Microsoft. There are over 1000 domains. This will block everything Microsoft has listed in their privacy documentation. Blocking includes Facebook, Bing, Outlook, Office, Edge, Skype, Xbox, Microsoft.com, Windows Update, Defender Update, Azure, and anything else that phones home to Microsoft.
 
 The network icon will show that you have no internet connectivity, this is because of msftconnecttest.com. Occasionally your browser will pop open and go to this domain to force a connection home. It won't work and the page will be blank. To fix this go to networkproguide.com link below to modify your registry settings.
