@@ -1163,7 +1163,7 @@ stats.l.doubleclick.net
 statsfe1.ws.microsoft.com
 statsfe2.update.microsoft.com
 statsfe2.update.microsoft.com.akadns.net
-statsfe2.update.microsoft.com.akadns.net,
+statsfe2.update.microsoft.com.akadns.net
 statsfe2.ws.microsoft.com
 storage.live.com
 store-images.microsoft.com
@@ -1183,7 +1183,7 @@ telecommand.telemetry.microsoft.com
 telecommand.telemetry.microsoft.com.nsatc.net
 telecommandsvc.microsoft.com
 telemetry.appex.bing.net
-telemetry.appex.bing.net:443
+telemetry.appex.bing.net
 telemetry.microsoft.com
 telemetry.remoteapp.windowsazure.com
 telemetry.urs.microsoft.com
@@ -1230,10 +1230,10 @@ w.apprep.smartscreen.microsoft.com
 wallet.microsoft.com
 watson.live.com
 watson.microsoft.com
-watson.microsoft.com,
+watson.microsoft.com
 watson.ppe.telemetry.microsoft.com
 watson.telemetry.microsoft.com
-watson.telemetry.microsoft.com,
+watson.telemetry.microsoft.com
 watson.telemetry.microsoft.com.nsatc.net
 wdcp.microsoft.com
 wdcpalt.microsoft.com
