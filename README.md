@@ -1,4 +1,4 @@
-# windows10.dns.list
+
 DNS Block List for Windows 10 Pihole
 This is an exhaustive list of all Windows 10 DNS names that call back to Microsoft. There are over 1000 domains. This will block everything Microsoft has listed in their privacy documentation. Blocking includes Facebook, Bing, Outlook, Office, Edge, Skype, Xbox, Microsoft.com, Windows Update, Defender Update, Azure, and anything else that phones home to Microsoft.
 
