@@ -1,5 +1,5 @@
 
-# Pihole DNS Block List for Windows 10
+# DNS Block List for Windows 10
 
 
 Largest List of Windows 10 hosts - 1,648 Hosts
