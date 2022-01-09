@@ -11,9 +11,6 @@ This is an exhaustive list of all Windows 10 DNS names that call back to Microso
 The network icon will show that you have no internet connectivity, this is because of msftconnecttest.com. Occasionally your browser will pop open and go to this domain to force a connection home. It won't work and the page will be blank. To fix this go to networkproguide.com link below to modify your registry settings.
 
 
-
-
-
 Windows Restricted Traffic Limited Functionality Baseline:
 A Microsoft provided package that will allow your organization to quickly configure the settings covered in this document to restrict connections from Windows 10 and Windows 11 to Microsoft.
 
@@ -48,3 +45,8 @@ https://www.microsoft.com/en-us/download/confirmation.aspx?id=53602
 https://www.reddit.com/r/MoneroMining/comments/8l5wpt/block_windows_update_with_firewall/
 https://www.reddit.com/r/sysadmin/comments/g345cj/windows_update_official_list_of_ips_or_domains/
 https://www.reddit.com/r/Windows10/comments/3j8909/does_anyone_have_an_exhaustive_list_of_ip_ranges/
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+https://gist.githubusercontent.com/amalleo25/eb73bc748029297500e76e7eac41337e/raw/9f5dd17d682b3b9c5b64c253863fcd4d74f9a7c8/telemetry-blocklist
+https://raw.githubusercontent.com/WindowsLies/BlockWindows/master/hostslist
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt
