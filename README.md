@@ -10,11 +10,13 @@ This is an exhaustive list of all Windows 10 DNS names that call back to Microso
 
 The network icon will show that you have no internet connectivity, this is because of msftconnecttest.com. Occasionally your browser will pop open and go to this domain to force a connection home. It won't work and the page will be blank. To fix this go to networkproguide.com link below to modify your registry settings.
 
+https://networkproguide.com/fix-connect-attempts-to-www-msftconnecttest-com-windows-server-2016/
 
+Optional security:
+
+I wouldn't recommend doing this but if you really want to block everything the guide is here to experiment with.
 Windows Restricted Traffic Limited Functionality Baseline:
 A Microsoft provided package that will allow your organization to quickly configure the settings covered in this document to restrict connections from Windows 10 and Windows 11 to Microsoft.
-
-
 Download Windows Restricted Traffic Limited Functionality Baseline zip file and run the powershell script. This will break browsing the internet because of Windows checking https websites against Microsoft Certificate Authorities. To fix this use gpedit.msc and under administrative templates, find the setting for ssl or certificates.
 
 https://docs.microsoft.com/en-us/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services
@@ -25,10 +27,6 @@ Microsoft Public IP space
 
 https://www.microsoft.com/en-us/download/details.aspx?id=53602
 
-
-Registry Fix:
-
-https://networkproguide.com/fix-connect-attempts-to-www-msftconnecttest-com-windows-server-2016/
 
 
 
