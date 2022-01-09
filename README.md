@@ -15,7 +15,7 @@ The network icon will show that you have no internet connectivity, this is becau
 
 
 Windows Restricted Traffic Limited Functionality Baseline:
-A Microsoft providied package that will allow your organization to quickly configure the settings covered in this document to restrict connections from Windows 10 and Windows 11 to Microsoft.
+A Microsoft provided package that will allow your organization to quickly configure the settings covered in this document to restrict connections from Windows 10 and Windows 11 to Microsoft.
 
 
 Download Windows Restricted Traffic Limited Functionality Baseline zip file and run the powershell script. This will break browsing the internet because of Windows checking https websites against microsoft certificate authorities. But you can always edit the GPOs it modifies for SSLs after the fact with GPedit.msc under administrative templates.
