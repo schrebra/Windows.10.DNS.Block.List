@@ -29,8 +29,10 @@ Download Windows Restricted Traffic Limited Functionality Baseline zip file and 
 - https://docs.microsoft.com/en-us/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services
 
 ## Router Blocking
+
+### Microsoft Public IP space
 If you have a router firewall you can also block windows public connection endpoints.
-Microsoft Public IP space
+
 
 - https://www.microsoft.com/en-us/download/details.aspx?id=53602
 
@@ -52,6 +54,6 @@ Microsoft Public IP space
 - https://www.reddit.com/r/Windows10/comments/3j8909/does_anyone_have_an_exhaustive_list_of_ip_ranges
 - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
--https://gist.githubusercontent.com/amalleo25/eb73bc748029297500e76e7eac41337e/raw/9f5dd17d682b3b9c5b64c253863fcd4d74f9a7c8/telemetry-blocklist
+- https://gist.githubusercontent.com/amalleo25/eb73bc748029297500e76e7eac41337e/raw/9f5dd17d682b3b9c5b64c253863fcd4d74f9a7c8/telemetry-blocklist
 - https://raw.githubusercontent.com/WindowsLies/BlockWindows/master/hostslist
 - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt
