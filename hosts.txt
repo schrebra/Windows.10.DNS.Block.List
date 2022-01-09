@@ -583,7 +583,7 @@ cs12.wpc.v0cdn.net
 cs9.wac.phicdn.net
 ctldl.windowsupdate.com
 cus-prod-msgsearch.cloudapp.net
-cy2.*.md.mp.microsoft.com
+cy2.md.mp.microsoft.com
 cy2.displaycatalog.md.mp.microsoft.com
 cy2.displaycatalog.md.mp.microsoft.com.akadns.net
 cy2.licensing.md.mp.microsoft.com
@@ -1512,7 +1512,7 @@ telecommand.telemetry.microsoft.co
 telecommand.telemetry.microsoft.com
 telecommand.telemetry.microsoft.com.nsatc.net
 telemetry.appex.bing.net
-telemetry.appex.bing.net:443
+telemetry.appex.bing.net
 telemetry.appex.search.prod.ms.akadns.net
 telemetry.malwarebytes.com
 telemetry.microsoft.com
