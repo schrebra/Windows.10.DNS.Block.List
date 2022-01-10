@@ -30,11 +30,17 @@ Download Windows Restricted Traffic Limited Functionality Baseline zip file and 
 ## IP Based Blocking
 
 ### Microsoft Public IP space
-Microsoft is known to not resolve all DNS names when communicating with Windows.
-If you have a router firewall you can also block Windows Public Connection Endpoints.
-
+Microsoft is known to not resolve all DNS names when communicating with Windows
+If you have a router firewall you can also block Windows Public Connection Endpoin
 
 - https://www.microsoft.com/en-us/download/details.aspx?id=53602
+
+
+## Powershell Firewall Blocking
+> - **Enable.Firewall.MSFT.Block.ps1** to block all Microsoft Public IP Space
+> - **Remove.Firewall.MSFT.Block.ps1** to remove the rules
+
+
 
 
 
