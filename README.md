@@ -27,10 +27,11 @@ Download Windows Restricted Traffic Limited Functionality Baseline zip file and 
 
 - https://docs.microsoft.com/en-us/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services
 
-## Router Blocking
+## IP Based Blocking
 
 ### Microsoft Public IP space
-If you have a router firewall you can also block windows public connection endpoints.
+Microsoft is known to not resolve all DNS names when communicating with Windows.
+If you have a router firewall you can also block Windows Public Connection Endpoints.
 
 
 - https://www.microsoft.com/en-us/download/details.aspx?id=53602
