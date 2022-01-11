@@ -1035,7 +1035,6 @@ dm3p.wns.notify.windows.com.akadns.net
 dm3p.wns.windows.com
 dmd.metaservices.microsoft.com
 dmd.metaservices.microsoft.com.akadns.net
-dns.google
 dns.msftncsi.com
 dns6.skype-dns.akadns.net
 download.microsoft.com
@@ -1590,7 +1589,6 @@ s.gateway.messenger.live.com
 s.net
 s0.2mdn.net
 s-0001.s-msedge.net
-s-0001.s-msedge.net#
 s1325.t.eloqua.com
 s2s.config.skype.com
 s2s.msedge.net
