@@ -37,6 +37,7 @@ If you have a router firewall you can also block Windows Public Connection Endpo
 
 
 ## Powershell Firewall Blocking
+Run powershell as administrator and enter "Set-ExecutionPolicy RemoteSigned"
 > - **Enable.Firewall.MSFT.Block.ps1** to block all Microsoft Public IP Space
 > - **Remove.Firewall.MSFT.Block.ps1** to remove the rules
 
