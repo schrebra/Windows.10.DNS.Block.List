@@ -74,8 +74,8 @@ Remove-NetFirewallRule -DisplayName "Block.MSFT.73" -verbose
 Remove-NetFirewallRule -DisplayName "Block.MSFT.74" -verbose
 Remove-NetFirewallRule -DisplayName "Block.MSFT.75" -verbose
 Remove-NetFirewallRule -DisplayName "Block.MSFT.76" -verbose
-Remove-NetFirewallRule -DisplayName ""Block.MSFT.*"" -verbose
-Remove-NetFirewallRule -DisplayName ""Block.MSFT.*"78" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.77" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.78" -verbose
 Remove-NetFirewallRule -DisplayName "Block.MSFT.79" -verbose
 Remove-NetFirewallRule -DisplayName "Block.MSFT.80" -verbose
 Remove-NetFirewallRule -DisplayName "Block.MSFT.81" -verbose
