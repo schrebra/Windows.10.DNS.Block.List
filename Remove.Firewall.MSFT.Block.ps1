@@ -1,230 +1,230 @@
-Remove-NetFirewallRule -DisplayName "Block.MSFT.1"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.2"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.3"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.4"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.5"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.6"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.7"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.8"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.9"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.10"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.11"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.12"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.13"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.14"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.15"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.16"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.17"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.18"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.19"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.20"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.21"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.22"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.23"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.24"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.25"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.26"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.27"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.28"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.29"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.30"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.31"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.32"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.33"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.34"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.35"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.36"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.37"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.38"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.39"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.40"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.41"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.42"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.43"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.44"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.45"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.46"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.47"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.48"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.49"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.50"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.51"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.52"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.53"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.54"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.55"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.56"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.57"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.58"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.59"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.60"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.61"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.62"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.63"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.64"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.65"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.66"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.67"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.68"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.69"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.70"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.71"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.72"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.73"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.74"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.75"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.76"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.77"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.78"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.79"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.80"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.81"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.82"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.83"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.84"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.85"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.86"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.87"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.88"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.89"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.90"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.91"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.92"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.93"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.94"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.95"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.96"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.97"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.98"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.99"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.100"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.101"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.102"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.103"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.104"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.105"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.106"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.107"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.108"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.109"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.110"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.111"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.112"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.113"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.114"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.115"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.116"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.117"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.118"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.119"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.120"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.121"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.122"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.123"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.124"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.125"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.126"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.127"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.128"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.129"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.130"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.131"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.132"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.133"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.134"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.135"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.136"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.137"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.138"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.139"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.140"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.141"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.142"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.143"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.144"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.145"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.146"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.147"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.148"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.149"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.150"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.151"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.152"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.153"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.154"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.155"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.156"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.157"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.158"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.159"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.160"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.161"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.162"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.163"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.164"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.165"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.166"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.167"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.168"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.169"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.170"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.171"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.172"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.173"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.174"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.175"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.176"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.177"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.178"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.179"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.180"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.181"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.182"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.183"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.184"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.185"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.186"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.187"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.188"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.189"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.190"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.191"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.192"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.193"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.194"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.195"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.196"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.197"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.198"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.199"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.200"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.201"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.202"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.203"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.204"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.205"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.206"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.207"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.208"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.209"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.210"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.211"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.212"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.213"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.214"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.215"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.216"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.217"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.218"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.219"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.220"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.221"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.222"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.223"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.224"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.225"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.226"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.227"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.228"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.229"
-Remove-NetFirewallRule -DisplayName "Block.MSFT.230"
+Remove-NetFirewallRule -DisplayName "Block.MSFT.1" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.2" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.3" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.4" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.5" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.6" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.7" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.8" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.9" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.10" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.11" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.12" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.13" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.14" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.15" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.16" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.17" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.18" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.19" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.20" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.21" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.22" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.23" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.24" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.25" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.26" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.27" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.28" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.29" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.30" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.31" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.32" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.33" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.34" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.35" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.36" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.37" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.38" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.39" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.40" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.41" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.42" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.43" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.44" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.45" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.46" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.47" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.48" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.49" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.50" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.51" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.52" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.53" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.54" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.55" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.56" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.57" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.58" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.59" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.60" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.61" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.62" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.63" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.64" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.65" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.66" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.67" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.68" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.69" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.70" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.71" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.72" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.73" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.74" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.75" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.76" -verbose
+Remove-NetFirewallRule -DisplayName ""Block.MSFT.*"" -verbose
+Remove-NetFirewallRule -DisplayName ""Block.MSFT.*"78" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.79" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.80" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.81" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.82" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.83" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.84" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.85" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.86" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.87" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.88" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.89" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.90" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.91" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.92" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.93" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.94" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.95" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.96" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.97" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.98" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.99" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.100" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.101" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.102" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.103" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.104" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.105" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.106" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.107" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.108" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.109" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.110" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.111" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.112" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.113" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.114" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.115" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.116" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.117" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.118" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.119" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.120" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.121" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.122" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.123" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.124" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.125" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.126" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.127" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.128" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.129" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.130" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.131" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.132" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.133" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.134" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.135" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.136" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.137" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.138" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.139" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.140" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.141" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.142" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.143" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.144" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.145" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.146" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.147" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.148" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.149" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.150" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.151" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.152" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.153" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.154" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.155" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.156" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.157" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.158" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.159" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.160" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.161" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.162" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.163" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.164" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.165" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.166" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.167" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.168" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.169" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.170" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.171" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.172" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.173" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.174" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.175" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.176" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.177" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.178" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.179" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.180" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.181" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.182" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.183" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.184" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.185" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.186" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.187" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.188" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.189" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.190" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.191" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.192" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.193" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.194" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.195" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.196" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.197" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.198" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.199" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.200" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.201" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.202" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.203" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.204" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.205" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.206" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.207" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.208" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.209" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.210" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.211" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.212" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.213" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.214" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.215" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.216" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.217" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.218" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.219" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.220" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.221" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.222" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.223" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.224" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.225" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.226" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.227" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.228" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.229" -verbose
+Remove-NetFirewallRule -DisplayName "Block.MSFT.230" -verbose
