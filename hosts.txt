@@ -154,6 +154,7 @@
 0026a1-1.l.windowsupdate.com
 0026bc-1.l.windowsupdate.com
 07101c5dbe4f32007eba2298fc4c2a5e.clo.footprintdns.com
+097-097-242-052.res.spectrum.com
 1.msftsrvcs.vo.llnwi.net
 108-174-10-14.fwd.linkedin.com
 118-163-160-187-HINET-IP.hinet.net
@@ -1287,6 +1288,7 @@ i-db3p-cor005.api.p001.1drv.com
 iecvlist.microsoft.com
 ieonlinews.microsoft.com
 ieonlinews.trafficmanager.net
+ilosgh519yhal.auth.hpicorp.net
 images.taboola.com
 img.s-msn.com
 img.stb.s-msn.com
@@ -1710,6 +1712,7 @@ telecommand.telemetry.microsoft.co
 telecommand.telemetry.microsoft.com
 telecommand.telemetry.microsoft.com.nsatc.net
 telecommandsvc.microsoft.com
+telecommandsvcfabricv4.westus2.cloudapp.azure.com
 telemetry.appex.bing.net
 telemetry.appex.search.prod.ms.akadns.net
 telemetry.malwarebytes.com
@@ -1848,6 +1851,7 @@ www.bing.com
 www.microsoft.com
 www.msn.com
 www.office.com
+www.telecommandsvc.microsoft.com
 www2.bing.com
 x.urs.microsoft.com
 x1ds.xboxlive.com
