@@ -1059,6 +1059,7 @@ dzzihpamyvtpzcz.localdomain
 e.crashlytics.com
 e-0009.e-msedge.net
 e-0009.e-msedge.net#ALSO
+e-0012.e-msedge.net
 e10663.dscg.akamaiedge.net
 e12358.g.akamaiedge.net
 e13551.dscg.akamaiedge.net
@@ -1852,6 +1853,7 @@ www.microsoft.com
 www.msn.com
 www.office.com
 www.telecommandsvc.microsoft.com
+www.xboxab.com
 www2.bing.com
 x.urs.microsoft.com
 x1ds.xboxlive.com
