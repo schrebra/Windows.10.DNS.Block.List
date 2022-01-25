@@ -3,7 +3,7 @@
 
 **Largest List of Windows 10 hosts - 1,990 Hosts**
 
-This is an exhaustive list of all Windows 10 DNS names that call back to Microsoft. There are over 1000 domains. This will block everything Microsoft has listed in their privacy documentation. 
+This is an exhaustive list of all Windows 10 DNS names that call back to Microsoft. This will block everything Microsoft has listed in their privacy documentation. 
 
 ## Pihole Adlist URL 
 - https://raw.githubusercontent.com/schrebra/Windows.10.DNS.Block.List/main/hosts.txt
