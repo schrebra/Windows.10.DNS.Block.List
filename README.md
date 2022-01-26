@@ -31,7 +31,7 @@ Download Windows Restricted Traffic Limited Functionality Baseline zip file and 
 
 ### Microsoft Public IP space
 Microsoft is known to not resolve all DNS names when communicating with Windows
-If you have a router firewall you can also block Windows Public Connection Endpoin
+If you have a router firewall you can also block Windows Public Connection Endpoints
 
 - https://www.microsoft.com/en-us/download/details.aspx?id=53602
 
