@@ -1747,6 +1747,7 @@ mediadiscovery.microsoft.com
 mediaredirect.microsoft.com
 mem.gfx.ms
 microsoft.com
+Microsoftconnecttest.com
 microsoft.windowscommunicationsapps.exe
 ml1prdapp01-canary.netmon.azure.com
 mlccdn.blob.core.windows.net
