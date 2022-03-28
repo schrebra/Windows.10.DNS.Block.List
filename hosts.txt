@@ -652,8 +652,6 @@ a978.i6g1.akamai.net
 a9a64462b995ebdf674e51eb0f2afd4e.clo.footprintdns.com
 ac3.msn.com
 account.activedirectory.windowsazure.com
-account.live.com
-account.microsoft.com
 account.office.net
 accounts.accesscontrol.windows.net
 activation.sls.microsoft.com
@@ -902,7 +900,6 @@ c.atdmt.com
 c.bing.com
 c.bing.net
 c.go.mpulse.net.cdn.cloudflare.net
-c.live.com
 c.msn.com
 c.msn.com.nsatc.net
 c.net
@@ -1041,7 +1038,6 @@ ch3302-c.1drv.com
 ch3302-e.1drv.com
 ch-api.taboola.com
 checkappexec.microsoft.com
-choice.live.com
 choice.microsoft.com
 choice.microsoft.com.nsatc.net
 choice.microsoft.com.nstac.net
@@ -1049,7 +1045,6 @@ client.wns.windows.com
 clientconfig.microsoftonline-p.net
 clientconfig.passport.net
 client-office365-tas.msedge.net
-client-s.gateway.messenger.live.com
 cloudapp.azure.com
 cloudtile.photos.microsoft.com
 c-msedge.net
@@ -1389,8 +1384,6 @@ device.login.microsoftonline.com
 df.telemetry.microsoft.com
 dgps.support.microsoft.com
 diagnostics.support.microsoft.com
-directory.services.live.com
-directory.services.live.com.akadns.net
 displaycatalog.md.mp.microsoft.com
 displaycatalog.mp
 displaycatalog.mp.microsoft.com
@@ -1528,9 +1521,6 @@ ft.com
 fw.adsafeprotected.com
 g.akamai.net
 g.akamaiedge.net
-g.bing.com
-g.live.com
-g.msn.com
 g.msn.com.nsatc.net
 gameserverds.xboxlive.com
 gate.hockeyapp.net
@@ -1687,7 +1677,6 @@ int.whiteboard.microsoft.co
 int.whiteboard.microsoft.com
 ip.wusmw1-client-s.msnmessenger.msn.com.akadns.net
 ip5.afdorigin-prod-am02.afdogw.com
-ipv4.login.live.com
 ipv4.login.msa.akadns6.net
 ipv6.msftconnecttest.com
 ipv6.msftncsi.com
@@ -1717,11 +1706,6 @@ livetileedge.dsx.mp
 livetileedge.dsx.mp.microsoft.com
 lo1prdapp01-canary.cloudapp.net
 location-inference-westus.cloudapp.net
-login.live.com
-login.live.com.nsatc.net
-login.microsoft.com
-login.microsoftonline.com
-login.microsoftonline-p.com
 login.msa.akadns6.net
 login.windows.net
 login.windows-ppe.net
@@ -1820,10 +1804,7 @@ ocsp.msocsp.com
 ocsp.usertrust.com
 odinvzc.azureedge.net
 oem.twimg.com
-office.com
-office.live.com
 office15client.microsoft.com
-officeapps.live.com
 officecdn.microsoft.com
 officecdn.microsoft.com.edgesuite.net
 officeclient.microsoft.com
@@ -1835,7 +1816,6 @@ oft.com
 om.akadns.net
 oneclient.sfx.ms
 onecollector.cloudapp.aria.akadns.net
-onedrive.live.com
 onedriveclucprodbn20001.blob.core.windows.net
 onedriveclucprodbn20002.blob.core.windows.net
 onedriveclucprodbn20003.blob.core.windows.net
@@ -2011,7 +1991,6 @@ roxy.azurefd.net
 rum14.perf.linkedin.com
 rum18.perf.linkedin.com
 rum8.perf.linkedin.com
-s.gateway.messenger.live.com
 s.net
 s.ytimg.com
 s0.2mdn.net
@@ -2111,7 +2090,6 @@ statsfe1.ws.microsoft.com
 statsfe2.update.microsoft.com
 statsfe2.update.microsoft.com.akadns.net
 statsfe2.ws.microsoft.com
-storage.live.com
 storecatalogrevocation.storequality.microsoft.com
 storeedgefd.dsx.mp
 storeedgefd.dsx.mp.microsoft.com
@@ -2294,7 +2272,6 @@ www.microsoft.com
 www.msn.com
 www.office.com
 www.onedrive.com
-www.outlook.com
 www.sway.com
 www.telecommandsvc.microsoft.com
 www.xboxab.com
