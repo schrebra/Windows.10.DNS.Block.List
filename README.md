@@ -5,7 +5,7 @@
 
 -Includes Windows 10 and Windows 11-
 
-This is an exhaustive list of all Windows DNS names that call back to Microsoft.
+This is an exhaustive list of all Windows DNS names that call back to Microsoft or third party applications builtin to the Operating System.
 
 ## Pihole Adlist URL 
 - https://raw.githubusercontent.com/schrebra/Windows.10.DNS.Block.List/main/hosts.txt
