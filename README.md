@@ -1,9 +1,11 @@
 
 # DNS Block List for Windows 10 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fschrebra%2FWindows.10.DNS.Block.List&count_bg=%23C83D3D&title_bg=%23000000&icon=buzzfeed.svg&icon_color=%23EF6969&title=Page+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-**The Largest List of Windows 10 hosts - 3,172 Hosts**
+**The Largest List of Windows hosts - 3,172 Hosts**
 
-This is an exhaustive list of all Windows 10 DNS names that call back to Microsoft.
+-Includes Windows 10 and Windows 11-
+
+This is an exhaustive list of all Windows DNS names that call back to Microsoft.
 
 ## Pihole Adlist URL 
 - https://raw.githubusercontent.com/schrebra/Windows.10.DNS.Block.List/main/hosts.txt
@@ -11,7 +13,7 @@ This is an exhaustive list of all Windows 10 DNS names that call back to Microso
 ## Warning
 
 Blocking includes
-> Bing, Outlook, Office, Edge, Skype, Xbox, Microsoft.com, Windows Update, Defender Update, Azure, and Telemetry.
+> Bing, Outlook, Office, Edge, Skype, Xbox, Microsoft.com, Windows Update, Defender Update, Azure, OneDrive, Spotify,TikTok, Clipchamp, Facebook, Linkedin and Telemetry.
 
 ## Broken Network Icon Fix
 The network icon will show that you have no internet connectivity, this is because of msftconnecttest.com. Occasionally your browser will pop open and go to this domain to force a connection home. It won't work and the page will be blank. To fix this go to networkproguide.com link below to modify your registry settings.
