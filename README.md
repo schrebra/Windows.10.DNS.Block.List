@@ -13,7 +13,7 @@ This is an exhaustive list of all Windows DNS names that call back to Microsoft.
 ## Warning
 
 Blocking includes any built in apps
-> Bing, Outlook, Office, Edge, Skype, Xbox, Microsoft.com, Windows Update, Defender Update, Azure, OneDrive, Spotify,TikTok, Clipchamp, Facebook, Linkedin and Telemetry.
+> Bing, Outlook, Office, Edge, Skype, Xbox, Microsoft.com, Windows Update, Defender Update, Azure, OneDrive, Spotify, TikTok, Clipchamp, Disney+ , Facebook, Linkedin and Telemetry.
 
 ## Broken Network Icon Fix
 The network icon will show that you have no internet connectivity, this is because of msftconnecttest.com. Occasionally your browser will pop open and go to this domain to force a connection home. It won't work and the page will be blank. To fix this go to networkproguide.com link below to modify your registry settings.
