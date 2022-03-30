@@ -1,7 +1,7 @@
 
 # DNS Block List for Windows 10 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fschrebra%2FWindows.10.DNS.Block.List&count_bg=%23C83D3D&title_bg=%23000000&icon=buzzfeed.svg&icon_color=%23EF6969&title=Page+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-**The Largest List of Windows 10 hosts - 2,311 Hosts**
+**The Largest List of Windows 10 hosts - 3,172 Hosts**
 
 This is an exhaustive list of all Windows 10 DNS names that call back to Microsoft.
 
