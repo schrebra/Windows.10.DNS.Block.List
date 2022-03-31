@@ -1,5 +1,5 @@
 
-# DNS Block List for Windows 10 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fschrebra%2FWindows.10.DNS.Block.List&count_bg=%23C83D3D&title_bg=%23000000&icon=buzzfeed.svg&icon_color=%23EF6969&title=Page+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+# DNS Block List for Windows [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fschrebra%2FWindows.10.DNS.Block.List&count_bg=%23C83D3D&title_bg=%23000000&icon=buzzfeed.svg&icon_color=%23EF6969&title=Page+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 **The Largest List of Windows hosts - 3,198 Hosts**
 
