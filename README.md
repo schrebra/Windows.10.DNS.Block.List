@@ -7,6 +7,8 @@
 
 This is an exhaustive list of all Windows DNS names that call back to Microsoft or third party applications builtin to the Operating System.
 
+Use the script IPv6.Disable.ps1 to disable ipv6. Blocking will not work if it is not run.
+
 ## Pihole Adlist URL 
 - https://raw.githubusercontent.com/schrebra/Windows.10.DNS.Block.List/main/hosts.txt
 
