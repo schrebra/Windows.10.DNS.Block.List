@@ -3601,7 +3601,6 @@ th.bing.com
 th-bing-com.dual-a-0001.a-msedge.net
 thestreamstaging.blob.core.windows.net
 tile-service.weather.microsoft.com
-time.windows.com
 title.mgt.xboxlive.com
 title.mgt.xboxlive.com.akadns.net
 tk2.plt.msn.com
