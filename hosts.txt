@@ -235,11 +235,13 @@
 3.dl.delivery.mp.microsoft.com.c.footprint.net
 3.tlu.dl.delivery.mp.microsoft.com
 3.tlu.dl.delivery.mp.microsoft.com.c.footprint.net
+30ec0a9ddf04b4ddeda97d27e90fcda7.azr.footprintdns.com
 31ff3195f71826a688bf89cd78440441.clo.footprintdns.com
 3225784d4fd41b944629da47c20af231.clo.footprintdns.com
 3332149673f4e503d18f32fd203ebb66.clo.footprintdns.com
 3375a945ba385a9751e04e8055a5b226.clo.footprintdns.com
 35e565580fc968b10242650d6eba058d.nrb.footprintdns.com
+36.a-msedge.net
 363e7b0c306ef55a993988bfd329121c.clo.footprintdns.com
 3748acead0a12c2db118d49f4466845c.clo.footprintdns.com
 37cbc87b47f40396e805eed994c2985f.clo.footprintdns.com
@@ -253,6 +255,7 @@
 41d123050c901e34ced1e7e9fa25d4e5.clo.footprintdns.com
 42802c46c42a56569dad03e2fa5b6312.clo.footprintdns.com
 443820874f954c8e323674740fd1517d.clo.footprintdns.com
+469801f9f356e90cb8269e8320e7164d.clo.footprintdns.com
 46fc3efe9e351c51600448cbfb88ea9c.clo.footprintdns.com
 471be2d0547eabcc7c74be32df056479.clo.footprintdns.com
 47a1d2c4054762163cb9c73e2043754a.clo.footprintdns.com
@@ -261,6 +264,8 @@
 49d531d480239a0f7ebdb4aa32b4cfaa.clo.footprintdns.com
 4a3295fc272df3d9d75999d61990f9f9.clo.footprintdns.com
 4-c-0003.c-msedge.net
+4cec5ed12ed78a54425c4a9638dffd0a.azr.footprintdns.com
+4d1a7ff225a4110f6709031d4d3171a0.azr.footprintdns.com
 4d9ddfb346663295114d97ab1c8e89fc.clo.footprintdns.com
 4f92b28a3bdc744810820601e0c9cf3a.clo.footprintdns.com
 4fb814c7d76c0b8e291dff26330bcf18.nrb.footprintdns.com
@@ -284,6 +289,7 @@
 5ec8b83cf0893aa9d8bb399c1a1d00bc.clo.footprintdns.com
 610a3c643c6eef92279aba82ace6d1b5.clo.footprintdns.com
 6178e6d21bb8f4f8d495936f2b8e06e8.clo.footprintdns.com
+627830b94f5c93e08d7a40d2d4ea7c7c.azr.footprintdns.com
 62aa0a980cba504d2e62d8603c7f3372.nrb.footprintdns.com
 62d59b21a206fe75bfb1592e424f3bf6.clo.footprintdns.com
 62f69b4d27dd04fae32d2b8c889e968a.clo.footprintdns.com
@@ -298,6 +304,7 @@
 6b8925b052aa36f13f88568631d1bc84.nrb.footprintdns.com
 6cc7d2b7debe5e5224c125d089fbabc9.clo.footprintdns.com
 6d66a39b997cfd9848f94029ddaa77ea.nrb.footprintdns.com
+6e908a64b3dfd5da3815e194a07be0d3.azr.footprintdns.com
 6fe1c41e16a1e64cfcf4f64ca1157401.clo.footprintdns.com
 7.au.download.windowsupdate.com
 7.perf.msedge.net
@@ -325,6 +332,7 @@
 83083ad2ef4686eba52f9a310ff2092a.clo.footprintdns.com
 8308f6c5dccacb6e79e3a9fb207672d4.clo.footprintdns.com
 835e0e133d5f64ba3e2162b5108dcf64.clo.footprintdns.com
+8398cb89320cb94a750c83cb2d9ccf33.azr.footprintdns.com
 83a4941345d10a258658337de4006755.clo.footprintdns.com
 83d0c798463feae49991f18a8180bdc1.clo.footprintdns.com
 8484166f0e4b47758f39084debf478b3.clo.footprintdns.com
@@ -332,6 +340,7 @@
 8529b90aea50a5740cceaa685f97ab03.clo.footprintdns.com
 853a1b517c04dc983b88ccd30ad05488.clo.footprintdns.com
 855005771eb9ff53e7e76fdbfb15622e.clo.footprintdns.com
+86935c65e34817afa614dd1f80ac3b09.azr.footprintdns.com
 86f6fa95c0d36c474291f4d19bd5ee26.clo.footprintdns.com
 87c3438d8cfc8352fd1df56e8adb4e01.nrb.footprintdns.com
 886d28bd420482acda38fec0c993f5d6.clo.footprintdns.com
@@ -565,7 +574,9 @@ a1904.r.akamai.net
 a1945.g2.akamai.net
 a194f36460c3ac6663710c0bc5c223cf.clo.footprintdns.com
 a1952.dscq.akamai.net
+a1961.g2.akamai.net
 a1962.b.akamai.net
+a1968.i6g1.akamai.net
 a1985.g2.akamai.net
 a1df81928dc934295aafd50a52474193-1272ebf8cb190008.elb.us-east-1.amazonaws.com
 a2047.mm2.akamai.net
@@ -865,6 +876,7 @@ a-9999.a-dc-msedge.net
 a-9999.a-msedge.net
 a9a64462b995ebdf674e51eb0f2afd4e.clo.footprintdns.com
 a9d3ffcb80244e68839499bc41b8c9be.clo.footprintdns.com
+aadcdn.msauth.ne
 aadcdn.msauth.net
 aadcdn.msftauth.net
 aadcdnoriginwus2.afd.azureedge.net
@@ -888,6 +900,7 @@ acctcdnvzeuno.azureedge.net
 acctcdnvzeuno.ec.azureedge.net
 acdc-base.office.com
 acdc-direct.office.com
+acdn.adnxs.com
 activation.sls.microsoft.com
 activation2.playready.microsoft.com
 activation3.westcentralus.cloudapp.azure.com
@@ -919,6 +932,7 @@ ads1.msads.net
 ads1.msn.com
 adserver.technoratimedia.com
 ads-inmobi-com-tm.trafficmanager.net
+adsrvr.org
 ae01d487362174b2f76eacb29ba0f2a8.clo.footprintdns.com
 aefd.nelreports.net
 aefd.nelreports.net.akamaized.net
@@ -926,8 +940,10 @@ aerserv-ads.trafficmanager.net
 afd.msedge.azure.us
 afdap.au.au-msedge.net
 afdxtest.z01.azurefd.net
+afficmanager.net
 ags.privatelink.msidentity.com
 aidps.atdmt.com
+aiedge.net
 aijscdn2.afd.azureedge.net
 aijscdn2.azureedge.net
 ajax.aspnetcdn.com
@@ -954,6 +970,7 @@ americas1.notify.windows.com.akadns.net
 americas2.notify.windows.com.akadns.net
 amp.azure.net
 ampconfigprod.blob.core.windows.net
+amplitude.com
 ams07prdapp02-canary.netmon.azure.com
 ams07prdapp02-canary.westeurope.cloudapp.azure.com
 a-msedge.net
@@ -966,6 +983,7 @@ any-na-lx.mix.linkedin.com
 apac1.notify.windows.com.akadns.net
 api.amplitude.com
 api.appcues.net
+api.aps.skype.com
 api.asm.skype.com
 api.bing.com
 api.cdp.microsoft.com
@@ -981,7 +999,9 @@ api.redshell.io
 api.taboola.com
 api.vungle.akadns.net
 api.vungle.com
+api2.amplitude.com
 api-acc2-vungle.edgesuite.net
+api-aps-teams.trafficmanager.net
 api-iam.intercom.io
 apimgmths8k8srwuo5d9jfc6q658hofn97z0hejguw9hpvcwd4.cloudapp.net
 apimgmttmr17ij3jt5dneg64srod9jevcuajxaoube4brtu9cq.trafficmanager.net
@@ -1002,12 +1022,16 @@ arc.msn.com.nsatc.net
 arc.msn.com-nsatc.net
 arc.trafficmanager.net
 arc-apac.msn.com
+arc-ring.arc-9999.arc-msedge.net
+arc-ring.msedge.net
 aria.microsoft.com
 ariesservicesboodueklfb7fo.trafficmanager.net
 a-ring.a-9999.a-msedge.net
 a-ring.msedge.net
 a-ring-fallback.msedge.net
 a-ring-ipv6only.msedge.net
+arm-ring.arm-9999.arm-msedge.net
+arm-ring.msedge.net
 array101-prod.do.dsp.mp.microsoft.com
 array102-prod.do.dsp.mp.microsoft.com
 array103-prod.do.dsp.mp.microsoft.com
@@ -1073,6 +1097,8 @@ arth.net
 asf-ris-prod-scus-azsc.southcentralus.cloudapp.azure.com
 asimov.settings.data.microsoft.com.akadns.net
 asimov-win.settings.data.microsoft.com.akadns.net
+asm-api-prod-version-skype.trafficmanager.net
+asm-skype-com.s-0006.s-msedge.net
 assets.msn.com
 assets.msn.com.edgekey.net
 assets.onestore.ms
@@ -1084,6 +1110,7 @@ atlas.c10r.facebook.com
 atm.trafficmanager.net
 atm-fp-direct.office.com
 atm-settingsfe-prod-geo.trafficmanager.net
+atm-settingsfe-prod-geo2.trafficmanager.net
 atm-settingsfe-prod-geo2.trafficmanager.net
 attachments.office.net
 atv-ps.amazon.com
@@ -1097,13 +1124,17 @@ auh20prdapp01-canary-opaph.uaecentral.cloudapp.azure.com
 auth.gfx.ms
 autologon.microsoftazuread-sso.com
 avatar-service-prod-b-eus2.cloudapp.net
+az15297.vo.msecnd.net
 az361816.vo.msecnd.net
 az416426.vo.msecnd.net
 az512334.vo.msecnd.net
 az725175.vo.msecnd.net
+azperfmaptargets-prod.trafficmanager.net
 azureedge.mdc.akamaized.net
 azwancan.trafficmanager.net
 azwindows.ipv6.microsoft.com.akadns.net
+azwus1-client-s.gateway.messenger.live.com
+azwus1-client-s.msnmessenger.msn.com.akadns.net
 b.ads1.msn.com
 b.ads2.msads.net
 b.akamaiedge.net
@@ -1178,6 +1209,8 @@ blob.bl6prdstr09a.store.core.windows.net
 blob.byaprdstr10a.store.core.windows.net
 blob.chaprdstr06a.store.core.windows.net
 blob.core.windows.net
+blob.mnz22prdstr02c.store.core.windows.net
+blob.mwh02prdstf02a.store.core.windows.net
 blob.sn4prdstr03a.store.core.windows.net
 blob.weather.microsoft.com
 blob.weather.microsoft.com.edgekey.net
@@ -1261,13 +1294,17 @@ b-ring.b-9999.b-msedge.net
 b-ring.msedge.net
 b-ring-fallback.msedge.net
 broadcast.skype.com
+browser.events.da
+browser.events.data.m
 browser.events.data.microsoft.com
 browser.events.data.msn.com
 browser.events.data.trafficmanager.net
 browser.pipe.aria.microsoft.com
+browser-intake-datadoghq.com
 bs.serving-sys.com
 bubblewitch3mobile.king.com
 business.bing.com
+business-bing-com.b-0005.b-msedge.net
 by1prdapp01-canary.cloudapp.net
 by1prdapp01-canary.netmon.azure.com
 by1prdapp01-canary.westus.cloudapp.azure.com
@@ -1277,6 +1314,8 @@ by3301-e.1drv.com
 bytedance.map.fastly.net
 bz7prdapp01-canary.eastus2.cloudapp.azure.com
 bz7prdapp01-canary.netmon.azure.com
+bzib.nelreports.net
+bzib.nelreports.net.akamaized.net
 c.atdmt.com
 c.bf.contentsquare.net
 c.bing.com
@@ -1284,6 +1323,8 @@ c.bing.net
 c.clarity.ms
 c.clicktale.net
 c.go.mpulse.net.cdn.cloudflare.net
+c.go-mpulse.net
+c.go-mpulse.netcwildcard46.go-
 c.live.com
 c.msn.com
 c.msn.com.nsatc.net
@@ -1308,6 +1349,7 @@ c85d48d8b5d9a4d9a682191bfad899fa.clo.footprintdns.com
 c86a3b90ad8d74eda90828a0653caf12.nrb.footprintdns.com
 c-9999.c-dc-msedge.net
 c-9999.c-msedge.net
+c9b991604cf8fed4dad33648fda5abcf.azr.footprintdns.com
 ca.telemetry.microsoft.com
 ca4-bid.adsrvr.org
 ca88f7250194e15f15fb188b0c149828.clo.footprintdns.com
@@ -1318,6 +1360,7 @@ candycrush.king.com
 candycrushsoda.king.com
 canvas-cdn-prod.akstd.azureedge.net
 canvas-cdn-prod.azureedge.net
+canvasstorageprodtorus.blob.core.windows.net
 c-aps-usea2-01-skype.cloudapp.net
 carcharodon.trendmicro.com
 casualgameswebperf.trafficmanager.net
@@ -1478,6 +1521,7 @@ ch3301-g.1drv.com
 ch3302-c.1drv.com
 ch3302-e.1drv.com
 ch-api.taboola.com
+chat.cdn.whatsapp.net
 checkappexec.microsoft.com
 chi23prdapp02-canary-opaph.netmon.azure.com
 chi23prdapp02-canary-opaph.northcentralus.cloudapp.azure.com
@@ -1546,8 +1590,12 @@ continuum.dds.microsoft.com
 cookie-sync-desktop.yellowblue.io
 corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
+cosmic-eastus2-ns-c241f06a6c33.trafficmanager.net
+cosmic-westus-ns-f83e3ddba75e.trafficmanager.net
 cp501.prod.do.dsp.mp.microsoft.com
 cp501.prod.do.dsp.mp.microsoft.com.edgekey.net
+cp601.prod.do.dsp.mp.microsoft.com
+cp601.prod.do.dsp.mp.microsoft.com.edgekey.net
 cp801.prod.do.dsp.mp.microsoft.com
 cp801.prod.do.dsp.mp.microsoft.com.edgekey.net
 cpd-pip-cus-boodueklfb7fo.centralus.cloudapp.azure.com
@@ -1586,6 +1634,8 @@ cs472.wac.edgecastcdn.net
 cs491.wac.edgecastcdn.net
 cs9.wac.phicdn.net
 cs9.wpc.v0cdn.net
+csp.microsoft.com
+csp-afd-prod.azurefd.net
 cs-server-s2s.yellowblue.io
 csync.loopme.me
 ctldl.windowsupdate.com
@@ -1955,6 +2005,7 @@ developerportalprod.blob.core.windows.net
 device.auth.xboxlive.com
 device.auth.xboxlive.com.akadns.net
 device.login.microsoftonline.com
+devicemetadataservice.prod.trafficmanager.net
 device-metrics-us-2.amazon.com
 df.telemetry.microsoft.com
 dgps.support.microsoft.com
@@ -1967,6 +2018,8 @@ directory.services.live.com.akadns.net
 dis.criteo.com
 disc501.prod.do.dsp.mp.microsoft.com
 disc501.prod.do.dsp.mp.microsoft.com.edgekey.net
+disc601.prod.do.dsp.mp.microsoft.com
+disc601.prod.do.dsp.mp.microsoft.com.edgekey.net
 disc801.prod.do.dsp.mp.microsoft.com
 disc801.prod.do.dsp.mp.microsoft.com.edgekey.net
 disney.api.edge.bamgrid.com
@@ -1991,6 +2044,7 @@ dm3p.wns.notify.windows.com.akadns.net
 dm3p.wns.windows.com
 dmd.metaservices.microsoft.com
 dmd.metaservices.microsoft.com.akadns.net
+dmd.metaservices.microsoft.comdmd.metaservices.microsoft.com
 dns.msftncsi.com
 dns6.skype-dns.akadns.net
 docker.creative-serving.com
@@ -2021,6 +2075,7 @@ dspb.akamaiedge.net
 dsp-cookie.trafficmanager.net
 dspg.akamaiedge.net
 ds-pr-bh.ybp.gysm.yahoodns.net
+ds-pr-bh.ybp.gysm.yahoodns.nethbx.media.net
 dspw65.akamai.net
 dsx.mp.microsoft.com
 dt.adsafeprotected.com
@@ -2094,6 +2149,7 @@ e24f14582f51474fa44e4917a969a290.clo.footprintdns.com
 e2682.g.akamaiedge.net
 e2699.dspg.akamaiedge.net
 e28578.d.akamaiedge.net
+e28578.d.akamaiedge.net.0.1.cn.akamaiedge.net
 e2917.b.akamaiedge.net
 e2921.b.akamaiedge.net
 e30a0dc997ded5357d94783ee3be9e70.clo.footprintdns.com
@@ -2106,6 +2162,7 @@ e40491.g.akamaiedge.net
 e4113.dscd.akamaiedge.net
 e4113.dscd.akamaiedge.net.0.1.cn.akamaiedge.net
 e4262.dscg.akamaiedge.net
+e4262.dscg.akamaiedge.net.0.1.cn.akamaiedge.net
 e4578.b.akamaiedge.net
 e5684.g.akamaiedge.net
 e584.g.akamaiedge.net
@@ -2117,6 +2174,9 @@ e8037.g.akamaiedge.net
 e8171.b.akamaiedge.net
 e8218.dscb1.akamaiedge.net
 e85734.dscd.akamaiedge.net
+e86303.dscx.akamaiedge.net
+e86303.dscx.akamaiedge.net.0.1.cn.akamaiedge.net
+e86303.dscx.akamaiedge.netedgeservices.bing.com
 e8652.dscx.akamaiedge.net
 e87.dspb.akamaiedge.net
 e87.dspg.akamaiedge.net
@@ -2158,6 +2218,7 @@ ecn.api.tiles.virtualearth.net
 ecn.dev.virtualearth.net
 ecn-us.dev.virtualearth.net
 ecn-us.dev.virtualearth.net.edgekey.net
+ecs.nel.measure.office.net
 ecs.office.com
 ecs.office.trafficmanager.net
 ecs-office.s-0005.s-msedge.net
@@ -2167,8 +2228,12 @@ edge.activity.windows.com
 edge.fullstory.com
 edge.gycpi.b.yahoodns.net
 edge.microsoft.com
+edge.net
+edge.skype.com
 edgeassetservice.afd.azureedge.net
 edgeassetservice.azureedge.net
+edge-consumer-static.afd.azureedge.net
+edge-consumer-static.azureedge.net
 edge-conumer-static.afd.azureedge.net
 edge-conumer-static.azureedge.net
 edgedl.me.gvt1.com
@@ -2179,9 +2244,12 @@ Edge-Prod-LAX31r5c.env.segments.s-msedge.net
 Edge-Prod-LAXr4a.env.segments.s-msedge.net
 Edge-Prod-LAXr4b.env.segments.s-msedge.net
 edgeservices.bing.com
+edgeservices.bing.comewww.bing.com
+edge-skype-com.s-0001.s-msedge.net
 edgetipscdn.microsoft.com
 edge-usw2.demdex.net
 edge-web.dual-gslb.spotify.com
+edge-web-gu
 edge-web-guc3.dual-gslb.spotify.com
 ef1a2b64eccfdbdc3c6d937c8d8b5b31.clo.footprintdns.com
 elasticafd-footprint-0d855e84-e893-47bd-84fd-b5568a836b09.azureedge.us
@@ -2199,10 +2267,15 @@ endpoint-quwfbp3teyq4e.ec.azureedge.net
 enterpriseregistration.windows.net
 en-us.appex-rf.msn.com
 equality.microsoft.com
+er.net
 e-ring-fallback.msedge.net
 etag-production-roundrobin.skype-registar.akadns.net
+eu.aria.events.data.trafficmanager.net
 eu.vortex.data.microsoft.com
 eu.vortex-win.data.microsoft.com
+eu-office.events
+eu-office.events.data.microsoft.com
+europe.cloudapp.azure.com
 europe.cp.wd.microsoft.com
 europe.smartscreen-prod.microsoft.com
 eus.rubiconproject.com
@@ -2215,6 +2288,7 @@ eu-v10.events.data.microsoft.com
 eu-v20.events.data.microsoft.com
 event-log-us-east-1a.prod.vungle.com
 event-log-us-east-1b.prod.vungle.com
+events.ads.vungle.com
 events.aerserv.com
 events.api.vungle.com
 events.data.microsoft.com
@@ -2231,6 +2305,7 @@ exo-9999.exo-msedge.net
 exo-ring.exo-9999.exo-msedge.net
 exo-ring.msedge.net
 exo-ring-fallback.msedge.net
+exp1.www.linkedin.com
 extended-web-vortex-data.trafficmanager.net
 f0267cfbfb9a9a5463dabd5649ebe140.clo.footprintdns.com
 f0da3c9b82add3149af8e1c72c497fa0.clo.footprintdns.com
@@ -2249,6 +2324,9 @@ fastg8.pool.iponweb.net
 fbb39cc5e8d47d7aae42dd901b10aa2e.nrb.footprintdns.com
 fbcdn.net
 fbsbx.com
+fd.api.iris.microsoft.com
+fd.api.iris.microsoft.comfd.api.iris.microsoft.com
+fd-api-iris.trafficmanager.net
 fe.eastus.cloudapp.azure.com
 fe.westus.cloudapp.azure.com
 fe2.update.microsoft.com
@@ -2262,6 +2340,7 @@ fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 fe3.delivery.mp.microsoft.com
 fe3.update.microsoft.com
 fe3cr.delivery.mp.microsoft.com
+fe-bmplatform-aks-atm.trafficmanager.net
 fe-bmplatform-prod-atm.trafficmanager.net
 feedback.microsoft-hohm.com
 feedback.search.microsoft.com
@@ -2322,20 +2401,27 @@ fs.microsoft.com
 fs-wildcard.microsoft.com.edgekey.net
 fs-wildcard.microsoft.com.edgekey.net.globalredir.akadns.net
 ft.com
+functional.events.data.microsoft.com
 fw.adsafeprotected.com
 g.akamai.net
 g.akamaiedge.net
 g.bing.com
+g.doubleclick.net
 g.geogslb.com
 g.live.com
 g.msn.com
 g.msn.com.nsatc.net
+g.whatsapp.net
 gameserverds.xboxlive.com
 gameserverds.xboxlive.com.akadns.net
 gate.hockeyapp.net
+gateway.bingviz.microsoftapp.net
 gateway.skyprod.akadns.net
+gateway-prod-dzdxewggepdadfbj.z01.azurefd.net
 g-bing-com.a-0001.a-msedge.net
 gce-or.bidswitch.net
+ge.microsoft.com
+gekey.net
 generic-2.lb.lm5v.com
 geo.instagram.com
 geo.prod.do.dsp.mp.microsoft.com
@@ -2350,6 +2436,7 @@ geo-prod.do.dsp.mp.microsoft.com
 geoprod.dodsp.mp.microsoft.com.nsatc.net
 geover.prod.do.dsp.mp.microsoft.com
 geover.prod.do.dsp.mp.microsoft.com.edgekey.net
+geover.prod.do.dsp.mp.microsoft.comgeover.prod.do.dsp.mp.microsoft.com
 geover-prod.do.dsp.mp.microsoft.com
 gfe.nvidia.com
 gfswl.geforce.com
@@ -2373,8 +2460,10 @@ go.microsoft.com
 go.microsoft.com.edgekey.net
 gocm.c.appier.net
 goi-mvp.trafficmanager.net
+googleads.g.do
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
+google-analytics.com
 gpla1.wac.v2cdn.net
 gprs-clients-85.26.155.145.misp.ru
 graph.instagram.com
@@ -2385,6 +2474,7 @@ greenid-prod-pme.westus2.cloudapp.azure.com
 gslb-2.demdex.net
 gstaticadssl.l.google.com
 guc3-spclient.spotify.com
+guc3-spclient.spotify.comguc3-spclient.spotify.com
 gum.criteo.com
 gum.da1.vip.prod.criteo.com
 gva20prdapp03-canary.netmon.azure.com
@@ -2393,6 +2483,7 @@ gvx01prdapp02-canary-opaph.netmon.azure.com
 gvx01prdapp02-canary-opaph.swedencentral.cloudapp.azure.com
 gvx11prdapp01-canary-opaph.netmon.azure.com
 gvx11prdapp01-canary-opaph.swedencentral.cloudapp.azure.com
+h.bing.com.edgekey.net
 h1.msn.com
 h2.msn.com
 h2.shared.global.fastly.net
@@ -2511,10 +2602,12 @@ i-bn3p-cor001.api.p001.1drv.com
 i-bn3p-cor090.api.p001.1drv.com
 i-by3p-cor001.api.p001.1drv.com
 i-by3p-cor002.api.p001.1drv.com
+ic3.events.data.microsoft
 ic3.events.data.microsoft.com
 iceprime_msnapp-iceprime-c2s.msedge.net
 i-ch1-cor001.api.p001.1drv.com
 i-ch1-cor002.api.p001.1drv.com
+ick.net
 icrosoft.com
 id.crwdcntrl.net
 id5-sync.com
@@ -2597,6 +2690,7 @@ js.monitor.azure.com
 k-9999.k-dc-msedge.net
 k-9999.k-msedge.net
 kadns.net
+kamaiedge.net
 kiwi.blob.core.windows.net
 kmwatsonc.events.data.microsoft.com
 kmwatsonc.telemetry.microsoft.com
@@ -2606,6 +2700,8 @@ k-ring-fallback.msedge.net
 kul-mvp.trafficmanager.net
 kv501.prod.do.dsp.mp.microsoft.com
 kv501.prod.do.dsp.mp.microsoft.com.edgekey.net
+kv601.prod.do.dsp.mp.microsoft.com
+kv601.prod.do.dsp.mp.microsoft.com.edgekey.net
 kv801.prod.do.dsp.mp.microsoft.com
 kv801.prod.do.dsp.mp.microsoft.com.edgekey.net
 l.windowsupdate.com
@@ -2647,6 +2743,8 @@ live.xbox.com.edgekey.net
 livegeteastus.cloudapp.net
 livetileedge.dsx.mp
 livetileedge.dsx.mp.microsoft.com
+ln-ring.ln-9999.ln-msedge.net
+ln-ring.msedge.net
 lo1prdapp01-canary.cloudapp.net
 lo1prdapp01-canary.netmon.azure.com
 location-inference-eastus.cloudapp.net
@@ -2712,6 +2810,8 @@ mediadiscovery.microsoft.com
 mediadiscovery.microsoft.com.edgekey.net
 mediadiscovery.microsoft.com.nsatc.net
 mediaredirect.microsoft.com
+meetnow.skype.com
+meetnow-skype-com.s-0006.s-msedge.net
 mel23prdapp01-canary-opaph.australiasoutheast.cloudapp.azure.com
 mel23prdapp01-canary-opaph.netmon.azure.com
 mel-mvp.trafficmanager.net
@@ -2776,6 +2876,8 @@ msnbot-65-55-108-23.search.msn.com
 msn-com.akamaized.net
 msntest.serving-sys.com
 msportal.blob.core.windows.net
+msrewards.afd.azureedge.net
+msrewards.azureedge.net
 mssdk.us.tiktokv.com
 mssdk.us.tiktokv.com.edgekey.net
 munchkin.marketo.net
@@ -2803,6 +2905,7 @@ nav-edge.smartscreen.microsoft.com
 ncsi.4-c-0003.c-msedge.net
 ncsi.6-c-0003.c-msedge.net
 ncsi-geo.trafficmanager.net
+ncsiv6-geo.trafficmanager.net
 ne.cp.wd.microsoft.com
 nel.measure.office.net.edgesuite.net
 ne-we.cp.wd.microsoft.com
@@ -2827,6 +2930,7 @@ ns5.msft.net
 ns6.msft.net
 nt.net
 ntp.msn.com
+ntp1.glb.nist.gov
 nus1-api-skype.cloudapp.net
 nus1-authgw.cloudapp.net
 nw-umwatson.events.data.microsoft.com
@@ -2865,7 +2969,10 @@ officepreviewredir.microsoft.com
 officeredir.microsoft.com
 officespeech.platform.bing.com
 oft.com
+olc-g2.tm-4.office.com
 om.akadns.net
+om.l-0005.l-msedge.net
+ome-office365-com.b-0004.b-msedge.net
 oneclient.sfx.ms
 oneclient.sfx.ms.edgekey.net
 onecollector.cloudapp.aria.akadns.net
@@ -3048,6 +3155,8 @@ onesettings-cy2.metron.live.com.nsatc.net
 onesettings-db5.metron.live.com.nsatc.net
 onesettings-hk2.metron.live.com.nsatc.net
 ooc.tm-2.office.com
+open-ai-connect.skype.com
+open-ai-connect-skype-com.s-0006.s-msedge.net
 optanon.blob.core.windows.net
 optionsservice-prod-southeastasia-a.cloudapp.net
 orantest.azurewebsites.net
@@ -3104,12 +3213,15 @@ part-0041.t-0009.t-msedge.net
 part-0043.t-0009.fbs1-t-msedge.net
 part-0043.t-0009.fdv2-t-msedge.net
 part-0043.t-0009.t-msedge.net
+part-0043.t-0009.t-msedge.netgateway.bingviz.microsoftapp.net
 partnerservices.getmicrosoftkey.com
 passwordreset.microsoftonline.com
 peer1-wst.msedge.net
 peer4-wst.msedge.net
+people.skype.com
 peoplegraph.firstpartyapps.oaspapps.com
 people-prod-b-usce.cloudapp.net
+people-service-prod.trafficmanager.net
 photos.microsoft.com
 phx10prdapp02-canary-opaph.netmon.azure.com
 phx10prdapp02-canary-opaph.westus3.cloudapp.azure.com
@@ -3140,6 +3252,7 @@ pme-greenid-prod.trafficmanager.net
 pmp.mxptint.net
 pn1prdapp01-canary.centralindia.cloudapp.azure.com
 pn1prdapp01-canary.netmon.azure.com
+pnv.skype.com
 policykeyservice.dc.ad.msft.net
 pool.dorpat.iponweb.net
 pool.proclivity.iponweb.net
@@ -3148,8 +3261,11 @@ pool-gce-or.ghent.iponweb.net
 pool-usw.dorpat.iponweb.net
 portal.office.com
 portal-office365-com.b-0004.b-msedge.net
+pr-bh.ybp.yah
+pr-bh.ybp.yahoo
 pr-bh.ybp.yahoo.com
 prda.aadg.msidentity.com
+prdv4a.aadg.msidentity.com
 prdv6a.aadg.msidentity.com
 pre.footprintpredict.com
 preview.msn.com
@@ -3171,6 +3287,7 @@ prod.msocdn.com
 prod.nexusrules.live.com.akadns.net
 prod.ocws1.live.com.akadns.net
 prod.odcsm1.live.com.akadns.net
+prod.registrar.skype.com
 prod.ups-adcom.aolp-ds-prd.aws.oath.cloud
 prod.ups-ats.aolp-ds-prd.aws.oath.cloud
 prod.ups-ats.us-west-1.aolp-ds-prd.aws.oath.cloud
@@ -3229,6 +3346,7 @@ r.bing.com
 r.clarity.ms
 r.manage.microsoft.com
 r.msftstatic.com
+r.net
 r.office.microsoft.com
 r1.res.office365.com
 r20swj13mr.microsoft.com
@@ -3248,6 +3366,8 @@ redirection.prod.cms.msn.com.akadns.net
 redshell.io
 register.cdpcs.microsoft.com
 register.mesh.com
+remoteassistance.support.services.microsoft.com
+remoteassistance.support.services.microsoft.com.edgekey.net
 reports.wes.df.telemetry.microsoft.com
 requality.microsoft.com
 res.cdn.office.net
@@ -3274,6 +3394,7 @@ roxy.azurefd.net
 roxy.trafficmanager.net
 rp-consumer-prod-displaycatalog-geomap.trafficmanager.net
 rs.fullstory.com
+rt-0043.t-0009.t-msedge.net
 rtb.adentifi.com
 rtb.adgrx.com
 rtb.adgrx.com.tech.akadns.net
@@ -3298,6 +3419,7 @@ s-0005.s-dc-msedge.net
 s-0005.s-msedge.net
 s-0005-office.config.skype.com
 s-0005-teams.config.skype.com
+s-0006.s-msedge.net
 s0-eafd-default-frontend.trafficmanager.net
 s0-sni-dod-vip.usgovtrafficmanager.net
 s0-sni-gov-vip.usgovtrafficmanager.net
@@ -3313,6 +3435,7 @@ s-9999.s-msedge.net
 sadc1.outbrain.org
 san.ssl.ak.dynamic.tiles.virtualearth.net.edgekey.net
 sanalytics.disneyplus.com
+sb.scorec
 sb.scorecardresearch.com
 sc.iasds01.com
 scdn1efff.wpc.9da5e.alphacdn.net
@@ -3323,6 +3446,7 @@ sconsentit903.cloudapp.net
 scontent.xx.fbcdn.net
 scorecardresearch.com
 scrat-logs.vungle.akadns.net
+scx.akamaiedge.net
 sdk.iad-06.braze.com
 sdkbundles.blob.core.windows.net
 sdx.microsoft.com
@@ -3356,6 +3480,7 @@ settings.data.microsoft.com.akadns.ne
 settings.live.net
 settingsfd-geo.trafficmanager.net
 settings-prod-eus-1.eastus.cloudapp.azure.com
+settings-prod-sea-2.southeastasia.cloudapp.azure.com
 settings-prod-wus2-1.westus2.cloudapp.azure.com
 settings-prod-wus2-2.westus2.cloudapp.azure.com
 settings-prod-wus3-1.westus3.cloudapp.azure.com
@@ -3398,6 +3523,8 @@ site-cdn.onenote.net
 site-cdn.onenote.net.edgekey.net
 siweb.microsoft.akadns.net
 sj3ads5.simpli.fi
+sjc22prdapp01-canary.netmon.azure.com
+sjc22prdapp01-canary.westus.cloudapp.azure.com
 sjc-bh.contextweb.com
 sjc-direct-bgp.contextweb.com
 SJC-efz.ms-acdc.office.com
@@ -3412,6 +3539,7 @@ skype-calling-missedcallsregistrar-prod-we.cloudapp.net
 skypeecs-prod-edge-a.trafficmanager.net
 skypeecs-prod-edge-b.trafficmanager.net
 skypeecs-prod-usw-0.cloudapp.net
+skype-scd-prod.trafficmanager.net
 sls.update.microsoft.com
 sls.update.microsoft.com.akadns.net
 sls.update.microsoft.com.nsatc.net
@@ -3549,6 +3677,7 @@ syncf.tubemogul.com
 sync-tm.everesttech.net
 t.appsflyer.com
 t.com
+t.edgekey.net
 t.pswec.com
 t.ssl.ak.dynamic.tiles.virtualearth.net
 t.ssl.ak.dynamic.tiles.virtualearth.net.edgekey.net
@@ -3598,9 +3727,12 @@ teredo.ipv6.microsoft.com
 test.activity.windows.com
 tfe.maps.bing.com.akadns.net
 th.bing.com
+thaka.bing.com
+thaka.bing.com.edgekey.net
 th-bing-com.dual-a-0001.a-msedge.net
 thestreamstaging.blob.core.windows.net
 tile-service.weather.microsoft.com
+time.windows.com
 title.mgt.xboxlive.com
 title.mgt.xboxlive.com.akadns.net
 tk2.plt.msn.com
@@ -3612,14 +3744,17 @@ tlu.graystore.au-msedge.net
 tlu-dcat.azureedge.net
 tlu-dcat.ec.azureedge.net
 tlu-graystore.c-0001.c-msedge.net
+tm.a.prd.aadg.trafficmanager.net
 tm1-direct.office.com
 tm-prod-wd-csp-edge.trafficmanager.net
 to-do.microsoft.com
+tpe23prdapp01-canary.taiwannorthwest.cloudapp.azure.com
 tprint.net
 trace.mediago.io
 trace.popin.cc
 track.adformnet.akadns.net
 traf-activation.trafficmanager.net
+tral.cloudapp.azure.com
 travel.tile.appex.bing.com
 trc.taboola.com
 trdocentralusrs4vmss.ipv6.microsoft.com.akadns.net
@@ -3654,6 +3789,7 @@ ty1prdapp01-canary.japaneast.cloudapp.azure.com
 ty1prdapp01-canary.netmon.azure.com
 tyo20prdapp01-canary.japaneast.cloudapp.azure.com
 tyo20prdapp01-canary.netmon.azure.com
+udapp.azure.com
 uhf.microsoft.com
 ui.skype.akadns.net
 ui.skype.com
@@ -3691,6 +3827,7 @@ us-v10.events.data.microsoft.com
 us-v20.events.data.microsoft.com
 us-west-2.world.rw.yieldmo.com
 us-west-sync.bidswitch.net
+utlook.ms-acdc.office.com
 v04.cap-ash1.technoratimedia.com
 v06.cap-ash1.technoratimedia.com
 v10.events.data.microsoft.com
@@ -3742,6 +3879,7 @@ vortex-win-sandbox.data.microsoft.com
 vs.login.msa.akadns6.net
 vsgallery.com
 w.apprep.smartscreen.microsoft.com
+w.msn.com
 wac.apr-8315.edgecastdns.net
 wac.edgecastcdn.net
 wac.phicdn.net
@@ -3763,6 +3901,8 @@ waw20prdapp01-canary.polandcentral.cloudapp.azure.com
 waw21prdapp01-canary.netmon.azure.com
 waw21prdapp01-canary.polandcentral.cloudapp.azure.com
 waw-mvp.trafficmanager.net
+waws-prod-bay-2e554e5e.cloudapp.net
+waws-prod-bay-2e554e5e.sip.p.azurewebsites.windows.net
 waws-prod-blu-165.cloudapp.net
 waws-prod-blu-165.sip.azurewebsites.windows.net
 waws-prod-dm1-215.sip.azurewebsites.windows.net
@@ -3792,6 +3932,7 @@ wd-prod-ss-us-southcentral-1-fe.southcentralus.cloudapp.azure.com
 wd-prod-ss-us-southcentral-2-fe.southcentralus.cloudapp.azure.com
 wd-prod-ss-us-west-1-fe.westus.cloudapp.azure.com
 wd-prod-ss-us-west-2-fe.westus.cloudapp.azure.com
+weathermapdata.blob.core.windows.net
 web.fe.1drv.com
 web.skype.com
 web.vortex.data.microsoft.com
@@ -3816,6 +3957,7 @@ wildcard.tiles.virtualearth.net.edgekey.net
 wildcard.twimg.com
 wildcard.xbox.com.edgekey.net
 wildcard.xboxlive.com.edgekey.net
+wildcard46.go-mpulse.net.edgekey.net
 wildcardtlu.azureedge.net
 wildcardtlu.ec.azureedge.net
 wildcardtlu-ssl.azureedge.net
@@ -3823,6 +3965,7 @@ wildcardtlu-ssl.ec.azureedge.net
 win.data.microsoft.com
 win10.ipv6.microsoft.com
 win10.ipv6.microsoft.com.nsatc.net
+win10-trt.dual-a-0001.a-msedge.net
 win10-trt.msedge.net
 win1710.ipv6.microsoft.com
 win1910.ipv6.microsoft.com
@@ -3867,8 +4010,11 @@ wus-wsapi.cloudapp.net
 wus-www.sway-cdn.com
 wus-www.sway-extensions.com
 www.bing.com
+www.bing.com.edgekey.net
+www.bing.comwww.bing.com
 www.bingapis.com
 www.clarity.ms
+www.google-analytics.com
 www.linkedin.com
 www.microsoft.com
 www.microsoft.com-c-3.edgekey.net
@@ -3891,6 +4037,8 @@ www.tm.lg.prod.aadmsa.akadns.net
 www.tm.lg.prod.aadmsa.trafficmanager.net
 www.tm.prd.ags.akadns.net
 www.tm.prd.ags.trafficmanager.net
+www.tm.v4.a.prd.aadg.akadns.net
+www.tm.v4.a.prd.aadg.trafficmanager.net
 www.tm.v6.a.prd.aadg.akadns.net
 www.tm.v6.a.prd.aadg.trafficmanager.net
 www.xboxab.com
@@ -3901,6 +4049,7 @@ www-bing-com.dual-a-0001.a-msedge.net
 www-linkedin-com.l-0005.l-msedge.net
 www-msn-com.a-0003.a-msedge.net
 www-src.linkedin.com
+www-www.bing.com.trafficmanager.net
 www-www.bing.com.trafficmanager.net
 www-xboxab-com.e-0012.e-msedge.net
 x.bidswitch.net
