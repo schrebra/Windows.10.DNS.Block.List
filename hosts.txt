@@ -2948,8 +2948,6 @@ ocsp.edge.digicert.com
 ocsp.godaddy.com
 ocsp.godaddy.com.akadns.net
 ocsp.msocsp.com
-ocsp.sectigo.com
-ocsp.verisign.com
 ocws.officeapps.live.com
 odc.officeapps.live.com
 odc-web-brs.onedrive.akadns.net
