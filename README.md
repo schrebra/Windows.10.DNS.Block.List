@@ -6,9 +6,14 @@
 
 This is an exhaustive list of all Windows DNS names that call back to Microsoft or third party applications builtin to the Operating System.
 
-Created script to help configure microsoft blocking and unblocking
+Created script to help configure Microsoft blocking and unblocking.
 
-![image](https://github.com/user-attachments/assets/4e5fe2b9-492a-45d8-8103-a4d78a239dec)
+![image](https://github.com/user-attachments/assets/e75149dc-7471-44dd-a8db-a72514c8ce3c)
+
+![image](https://github.com/user-attachments/assets/8c13a0f8-5232-4bc8-ac86-97aca53964bc)
+
+
+
 
 
 ## Pihole Adlist URL 
