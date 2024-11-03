@@ -12,7 +12,45 @@ Created script to help configure Microsoft blocking and unblocking.
 
 ![image](https://github.com/user-attachments/assets/8c13a0f8-5232-4bc8-ac86-97aca53964bc)
 
+## Core Functions
 
+### 1. Access Control
+- Requires administrator privileges
+- Maximizes window on startup
+- Self-adds to Windows Defender exclusions
+
+### 2. Blocking Features
+- Downloads/modifies Windows hosts file
+  - Redirects Microsoft domains to localhost (127.0.0.1)
+- Disables IPv6 on network adapters
+- Creates Windows Firewall rules
+  - Blocks Microsoft IP ranges
+- Downloads/processes Microsoft's public IP ranges
+
+### 3. Main Functions
+- **Fast Block**: Executes all blocking actions sequentially
+- **Complete Unblock**: Reverses all blocking actions
+- **Manual Actions**: Individual control of each function
+
+### 4. Network Management
+- Hosts file backup creation
+- Windows Firewall rule management
+- Network adapter restart capability
+- DNS flush and re-registration
+- Temporary file cleanup
+
+### 5. Status Monitoring
+- IPv6 status display
+- Hosts file modification status
+- Firewall rule status
+
+## Interface
+
+Interactive menu system offering:
+- Complete Microsoft connection blocking
+- Full unblock functionality
+- Manual action execution
+- Real-time status monitoring
 
 
 
